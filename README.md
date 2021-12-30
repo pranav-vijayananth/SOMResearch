@@ -1,2 +1,2 @@
 # SOM Research
-Collection of datasets and Google Colabs when I research SOM underneath Professor Iulian Neamtiu.
+Collection of datasets and Google Colabs that I wrote when researching SOM underneath Professor Iulian Neamtiu.
